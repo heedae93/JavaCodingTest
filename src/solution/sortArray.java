@@ -12,8 +12,10 @@ public class sortArray {
 
 
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(solution3(new int[]{1, -5, 2,99, -8,4, 3})));
-        //System.out.println(Arrays.toString(solution(new int[]{2, 1, 1, 3, 2, 5, 4})));
+        solution(new int[]{1, -5, 2,99, -8,4, 3});
+        solution2(new int[100000]);
+        solution3(new int[100000]);
+
     }
 
     // 풀이 1 : Arrays.sort() 메소드를 이용한 풀이
