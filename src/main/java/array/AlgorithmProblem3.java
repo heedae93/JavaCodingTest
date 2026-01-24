@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class Arr3 {
+public class AlgorithmProblem3 {
 
     // --- JUnit 테스트 영역 ---
 
